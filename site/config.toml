@@ -2,5 +2,5 @@ baseURL = 'https://RudiKrisulra.github.io/'
 languageCode = 'en-us'
 title = 'Rudi Krisulta'
 theme = "ananke"
-<img src="image/family.JPG" id="family" style="display: none;" alt="family">
+src="image/family.JPG" id="family" style="display: none;" alt="family"
           
