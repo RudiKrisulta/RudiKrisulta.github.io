@@ -2,6 +2,5 @@ baseURL = 'https://RudiKrisulra.github.io/'
 languageCode = 'en-us'
 title = 'Rudi Krisulta'
 theme = "ananke"
-
-<p align='center'><image src="image/family.jng" width="250" height="150"></p>
-          <p align='center'><font size="5px">Koperasi Maju Bersama</font></p>
+<img src="image/family.JPG" id="Badan" style="display: none;" alt="family">
+          
